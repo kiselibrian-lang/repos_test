@@ -1,1 +1,20 @@
 Repos could be created locally and then connected to Github repositories.
+You could just create a new repository on the account on Github ,git_test
+Then pull a key that is a path to set Github on git ,usually a link on the ssh section when you click the green code button
+Then get to command line create a FOLDER ,git_test 
+open the file you created on git _test using a text editor prefarably VsCode. In your terminal type with the working directory as git_test 'code .',and press enter topen the folder on VsCode.
+Find the EXPLORER open the file you just created on the folder.
+Type in something and save it (ctrl + s)
+Then back to the terminal on the same directory type in 'git init'.
+Then 'git add filename.txt'
+'git commit -m "Add filename.txt"
+.Now the file is already committed and ready for push to Github 
+Before that you need connect the local repository to the remote one on Github.
+In your terminal 'git add origin https://example.........
+The URL is the one copied from Github.
+The enter
+Now the repository (local) is ready to be pushed on Github
+CLI 'git push -u origin main'
+then Type 'git status'
+If it gives an error output repeat the procedures again and make sure you have a working keygen.
+Click here to check <a href="/Keygen/">Keygen </a>.
