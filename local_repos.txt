@@ -10,7 +10,7 @@ Then 'git add filename.txt'
 'git commit -m "Add filename.txt"
 .Now the file is already committed and ready for push to Github 
 Before that you need connect the local repository to the remote one on Github.
-In your terminal 'git add origin https://example.........
+In your terminal 'git add remote origin https://example.........
 The URL is the one copied from Github.
 The enter
 Now the repository (local) is ready to be pushed on Github
@@ -18,3 +18,8 @@ CLI 'git push -u origin main'
 then Type 'git status'
 If it gives an error output repeat the procedures again and make sure you have a working keygen.
 Click here to check <a href="/Keygen/">Keygen </a>.
+Or type in 'ls -al~/.ssh' in your command line .
+The output should include files 'ed25519............
+If not click here to create one.
+<a href ="/keygen/" href="#Creating ssh key">Createing SSH key</a>
+<a href="/testCheck/"> knowledge </a>
